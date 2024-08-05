@@ -161,7 +161,7 @@ An *instance store* provides temporary block-level storage for your instance. 
 - A **public subnet** is a segment of an Amazon Virtual Private Cloud (VPC) that is accessible from the internet, allowing resources deployed within it to have direct internet connectivity, making it suitable for web servers or applications that require external access.
 
 
-## Security Groups vs Network ACLs (NACL)
+## Security Groups vs Network ACLs (NACL) Network Access Control List 
 
 ![Image5](./images/img5.png)
 
